@@ -1,4 +1,3 @@
-# learning-HTML
 Welcome to my first HTML and CSS project as a beginner!
 This repository contains my first codes created and modified about websites and some applications.
 It describes the journey taken during my learning HTML and CSS using Sololearn.com.
